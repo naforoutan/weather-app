@@ -19,6 +19,6 @@ This is a simple weather forecasting application built using Vue.js. It allows u
 
 
 ## 🚀 About Me
-- [@nforoutann](https://github.com/nforoutann)
+- [@nforoutann](https://github.com/naforoutan)
 I'm a Computer Engineering (Computer Science) student at Shahid Beheshti University.
 
